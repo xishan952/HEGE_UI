@@ -1,4 +1,4 @@
-# HEGE Control Panel
+# HEGE UI
 
 ESP32-S3 7-inch Touch LCD control panel for HEGE project.
 
